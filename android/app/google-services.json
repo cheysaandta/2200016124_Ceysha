@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995170277566",
+    "project_id": "fir-flutter-ceysha",
+    "storage_bucket": "fir-flutter-ceysha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995170277566:android:7a5ed40d328fc96d1fa6ef",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvK65iZyt2VipFbdQmmY4E0_x8VKUVrzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
